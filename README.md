@@ -1,4 +1,4 @@
-# Durga Bhavani
+# Durga Bhavani Yalla
 
 ### 📊 Aspiring Data Analyst | Excel | Python | SQL | Data Analytics Enthusiast
 

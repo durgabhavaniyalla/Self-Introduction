@@ -9,7 +9,7 @@ I am an aspiring **Data Analyst** with a passion for transforming raw data into 
 ---
 
 ## 🎓 Education
-Bachelor of Technology in Computer Science and Engineering with a Specialization in Cyber Security
+  B.Tech in Computer Science and Engineering with a Specialization in Cyber Security | 2026 Graduate
 
 
 ## 🛠️ Technical Skills
